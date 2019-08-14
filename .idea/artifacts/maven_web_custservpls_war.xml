@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="maven_web_custservpls:war">
+    <output-path>$PROJECT_DIR$/../custservpls/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>maven_web_custservpls</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="custservpls.war">
+      <element id="artifact" artifact-name="maven_web_custservpls:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: unicom:wadlibplus:activation:20180408">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/unicom/wadlibplus/20180408/wadlibplus-20180408-activation.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/unicom/wadlibplus/20180408/wadlibplus-20180408-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/unicom/wadlibplus/20180408/wadlibplus-20180408-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

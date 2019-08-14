@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GitHubTest/GitHubTest.iml" filepath="$PROJECT_DIR$/GitHubTest/GitHubTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/code.iml" filepath="$PROJECT_DIR$/.idea/code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../custservpls/maven_web_custservpls.iml" filepath="$PROJECT_DIR$/../custservpls/maven_web_custservpls.iml" />
+    </modules>
+  </component>
+</project>

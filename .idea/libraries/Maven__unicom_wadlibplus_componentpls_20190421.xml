@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: unicom:wadlibplus:componentpls:20190421">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/unicom/wadlibplus/20190421/wadlibplus-20190421-componentpls.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/unicom/wadlibplus/20190421/wadlibplus-20190421-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/unicom/wadlibplus/20190421/wadlibplus-20190421-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
